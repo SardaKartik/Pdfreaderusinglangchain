@@ -1,7 +1,8 @@
 # Ignore virtual environment
 myenv/
 venv/
-.env/
+.env
+devesh.txt
 
 # Ignore compiled Python files
 __pycache__/
